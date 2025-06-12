@@ -1,0 +1,11 @@
+name = "html-showing"
+main = "src/index.js"
+compatibility_date = "2024-01-01"
+
+[[kv_namespaces]]
+binding = "HTML_STORAGE"
+id = "261363bdc7ea41d88727edd8da6386b4"
+preview_id = "261363bdc7ea41d88727edd8da6386b4"
+
+[vars]
+ENVIRONMENT = "production"
