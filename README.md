@@ -16,7 +16,7 @@
 
 *支持文件上传和代码粘贴，一键生成可分享的预览链接*
 
-[🚀 立即体验](https://your-domain.workers.dev) • [📖 使用文档](#-使用指南) • [🛠️ 部署教程](#-快速部署) • [🎨 预览截图](#-界面预览)
+[🚀 立即体验](https://html.djxs.xyz/) • [📖 使用文档](#-使用指南) • [🛠️ 部署教程](#-快速部署) • [🎨 预览截图](#-界面预览)
 
 ---
 
@@ -124,7 +124,7 @@ wrangler login
 #### 📦 **第二步：克隆项目**
 ```bash
 # 克隆仓库
-git clone https://github.com/yourusername/html-showing.git
+git clone https://github.com/xiyewuqiu/HTML-showing.git
 
 # 进入目录
 cd html-showing
@@ -403,7 +403,7 @@ html-showing/
    ```bash
    # Fork 到你的 GitHub 账户
    # 然后克隆到本地
-   git clone https://github.com/yourusername/html-showing.git
+   git clone https://github.com/xiyewuqiu/HTML-showing.git
    ```
 
 2. **🌿 创建分支**
@@ -532,7 +532,7 @@ copies or substantial portions of the Software.
 
 ### 🚀 **立即开始你的HTML预览之旅！** 🚀
 
-[⭐ 给个Star](https://github.com/yourusername/html-showing) • [🍴 Fork项目](https://github.com/yourusername/html-showing/fork) • [🐛 报告问题](https://github.com/yourusername/html-showing/issues) • [💡 功能建议](https://github.com/yourusername/html-showing/discussions)
+[⭐ 给个Star](https://github.com/xiyewuqiu/HTML-showing.git) • [🍴 Fork项目](https://github.com/xiyewuqiu/HTML-showing/fork) • [🐛 报告问题](https://github.com/xiyewuqiu/HTML-showing/issues) • [💡 功能建议](https://github.com/xiyewuqiu/HTML-showing/discussions)
 
 **如果这个项目对你有帮助，请给个⭐Star支持一下！**
 
